@@ -1,0 +1,15 @@
+.ant-page-header-heading-title {
+  color: #ffffff !important;
+}
+
+.ant-page-header-heading {
+  justify-content: center !important;
+}
+
+.ant-page-header-back-button {
+  color: #ffffff !important;
+}
+.ant-page-header-back {
+  position: absolute;
+  left: 16px !important;
+}
